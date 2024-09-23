@@ -9,8 +9,8 @@
 
 ## <http://175.178.18.133/static/home.html>
 
-![飞雷神使用说明.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/494313f286204438a92f783199853c83~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg54ix5ZCD6IKJ55qE6bG8:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDI0ODE2ODY2MzEwNDE2OCJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1727697109&x-orig-sign=CVO%2BDNNTIUmt1CJfQxqZIqHZr54%3D)
+![飞雷神使用说明.png](https://github.com/MeiCorl/fls-sport/blob/main/imgs/%E9%A3%9E%E9%9B%B7%E7%A5%9E%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
-![微信图片\_20240923181820.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/19a9842e984745ea9e703072d3935d97~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg54ix5ZCD6IKJ55qE6bG8:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDI0ODE2ODY2MzEwNDE2OCJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1727697109&x-orig-sign=lf%2BqGbbapUDqm%2Fa9F3UEcEhfDZA%3D)
+![微信图片\_20240923181820.png](https://github.com/MeiCorl/fls-sport/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240923181820.png)
 
-![微信图片\_20240923181813.jpg](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/48d9c64404164c6290332e40b4e480e3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg54ix5ZCD6IKJ55qE6bG8:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDI0ODE2ODY2MzEwNDE2OCJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1727697109&x-orig-sign=KXa6xje5IZd7jkzipJD5W3%2FMRPI%3D)
+![微信图片\_20240923181813.jpg](https://github.com/MeiCorl/fls-sport/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240923181813.jpg)
