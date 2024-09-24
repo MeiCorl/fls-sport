@@ -8,7 +8,7 @@
 多的不说了: 1、2、3 上链接(目前功能都集中在一个页面，后续会不断优化!!!)
 
 ## <http://175.178.18.133/static/home.html>
-## <http://175.178.18.133/static/home.html>
+## <https://175.178.18.133/static/home.html>
 (https使用自制证书，部分浏览器可能会提示不被信任等问题，用户名密码都有加密，请放心使用)
 ![飞雷神使用说明.png](https://github.com/MeiCorl/fls-sport/blob/main/imgs/%E9%A3%9E%E9%9B%B7%E7%A5%9E%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.png)
 
